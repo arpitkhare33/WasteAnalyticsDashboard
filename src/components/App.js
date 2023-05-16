@@ -10,7 +10,7 @@ import Navbar from './Navigation'; // Import the Navbar component
 function App() {
   return (
     <div className="App">
-      <div className='header'>Analyzing the sentiment of tweets to drive waste reduction 😎</div>
+      <div className='header'>Waste Analytics using Sentiment Analysis of Clean India Tweets</div>
 
    
 
